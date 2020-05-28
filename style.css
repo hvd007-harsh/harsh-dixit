@@ -1,0 +1,96 @@
+body
+{
+    background-image:url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin: 0px;
+    margin-top: 12px;
+      width: 750px;
+    height: 45.33px;
+    display: block;
+    min-zoom: 95%;
+    max-zoom: 100%;
+}
+.list
+{
+    height: auto;
+    width: auto;
+    margin-right: 43px;
+    margin-left: 45px;
+    padding-left: 120px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-family: sans-serif;
+align-content: center;
+background-image: linear-gradient(rgb(71, 151, 255),rgb(1, 9, 12));
+float: left;
+}
+.image
+{
+    height: 480;
+    width: 600;
+    z-index: +1;
+}
+.list_of_blog
+{
+    text-align: left;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.Mypage
+{
+font-family: sans-serif;
+background-image:linear-gradient(rgb(202, 8, 202),rgba(82, 82, 255, 0.884));
+border-style:outset;
+border-color: white;
+text-decoration: none;
+margin-right: 25px;
+border-radius: 5px;
+}
+.instagram
+{
+font-family: sans-serif;
+background-image:linear-gradient(rgb(202, 8, 202),rgba(82, 82, 255, 0.884));
+border-color: white;
+border-style: outset;
+text-decoration: none;
+margin-right: 25px;
+border-radius: 5px;
+}
+.Twitter
+{
+font-family: sans-serif;
+background-image:linear-gradient(rgb(202, 8, 202),rgba(82, 82, 255, 0.884));
+border-color: white;
+border-style: outset;
+text-decoration: none;
+margin-right: 25px;
+border-radius: 5px;
+}
+.Blog
+{
+font-family: sans-serif;
+background-image:linear-gradient(rgb(202, 8, 202),rgba(82, 82, 255, 0.884));
+border-color: white;
+border-style: outset;
+text-decoration: none;
+margin-right: 25px;
+border-radius: 5px;
+}
+h5
+{
+    background-image: linear-gradient(to left ,white,blue);
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+p
+{
+    background-image: linear-gradient(to right,white,grey);
+    font-family: sans-serif;
+    
+
+}
